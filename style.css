@@ -1,0 +1,46 @@
+*{     
+    padding: 1%;
+    text-align: center;
+    margin-top: 3%;
+}
+
+body{
+    background: linear-gradient(90deg, rgb(9, 9, 182), rgb(73, 73, 211), rgb(122, 124, 190));
+    
+}
+
+input.id{
+    width: 300px;
+    height: 30px;
+}
+
+label{
+    margin-right: 30%;
+}
+
+h3{
+    color: rgb(6, 6, 73);
+}
+
+div.container{
+    
+    margin-top: auto;
+    width: 50%;
+    height: 70%;
+        
+}
+
+.btn#button{
+    width: 100px;
+    height: 10%;
+    
+}
+div.card{
+    border: solid black 2px;
+    border-radius: 10px;
+    background: linear-gradient(rgb(234, 234, 240), rgb(64, 126, 177), rgb(50, 68, 102)); 
+}
+
+img{
+    border-radius: 20px;
+}
